@@ -1,3 +1,5 @@
+# Loads sensitive configuration infomration. An example version of profile.cfg with fields can be
+# found in profile.cfg.template
 source profile.cfg
 
 git config --global user.email "$email"
